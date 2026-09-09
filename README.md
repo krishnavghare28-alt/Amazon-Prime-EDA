@@ -49,7 +49,7 @@ The project includes:
   and some rating-related variables.
 
 ## Project Structure
-Amazon-Prime-EDA/
+Amazon-Prime-EDA
 │
 ├── Amazon_Prime_EDA.ipynb
 ├── titles.csv.zip
