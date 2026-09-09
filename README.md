@@ -50,11 +50,10 @@ The project includes:
 
 ## Project Structure
 Amazon-Prime-EDA
-│
-├── Amazon_Prime_EDA.ipynb
-├── titles.csv.zip
-├── credits.csv.zip
-└── README.md
+.Amazon_Prime_EDA.ipynb
+.credits.csv.zip
+.titles.csv.zip
+.README.md
 
 ## Conclusion
 The EDA provides useful insights into Amazon Prime's content library,
